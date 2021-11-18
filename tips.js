@@ -18,4 +18,7 @@ yarn run hardhat compile
 
 Deployed contract DefaultErc20 to: 0x81a52516768C42C1555ed8B5F4BC457F03AEB4e6
 
+
+"await functionName.wait() cannot be called on view functions" 
+
 `
